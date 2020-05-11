@@ -1,4 +1,4 @@
-# Spinnaker UI
+# Spinnaker Insights UI
 
 ![Deck CI](https://github.com/spinnaker/deck/workflows/Deck%20CI/badge.svg)
 
